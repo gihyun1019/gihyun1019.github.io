@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about/index.html
-title: GiHyun Kim
+title: KIM GI HYUN
 tags: [Gihyun, Kim, gihyun1019]
 imagefeature: Gihyun.jpg
 chart: true
