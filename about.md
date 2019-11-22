@@ -42,13 +42,11 @@ This is my personal blog. It currently has {{ site.posts | size }} posts in {{ s
 ### 수제공예품 재료 정리 어플리케이션  - *Team project*
 <sub>2019.03.11 - 08.13 </sub>
 - 흔히 '핸드메이드'라고도 불리는 수제공예품들을 만드는데 필요한 재료들과 그 가격들을 알려주는 어플리케이션. 수제공예품의 종류가 굉장히 다양한 만큼 지속적인 업데이트 계획이 필요한 시스템으로 제작하였다.
-
 - Mobile programing, Database, SQL Server, Php, Java
 
 ### 병원의 관계도 조사 - *Team project*
 <sub>2018.10.24 - 11.20 </sub>
 - 특정 단체를 정해 그 단체의 관계도와 구조를 파악한 다음, 제 1,2,3 정규형을 모두 만족하는 ER다이어그램과 관계도 작성.
-
 - PPT
 
 ### 영어공부 정보 공유 어플리케이션 - *Team Project*
