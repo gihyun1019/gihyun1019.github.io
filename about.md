@@ -33,7 +33,9 @@ This is my personal blog. It currently has {{ site.posts | size }} posts in {{ s
 
 
 ## [INTRODUCTION]()
-- university: Kangwon National University(Samcheok), Department of Computer Science
+- Birth: January, 01, 1994
+- Number: 010-5566-7527
+- University: Kangwon National University(Samcheok), Department of Computer Science
 
 
 ## [PROJECTS]()
@@ -54,6 +56,8 @@ This is my personal blog. It currently has {{ site.posts | size }} posts in {{ s
 - '만들어보기'에 의미를 두어 정식으로 사용되지 않을 영어공부에 대한 정보를 공유하는 어플리케이션. 토익공부를 중점으로 책, 강의사이트에 대한 추천 게시판 위주로 제작.
 (현재 마무리가 되지 않은 상태)
 
+
+
 ## [Skills]()
 
 ### Language
@@ -61,6 +65,8 @@ C, C++, Java, SQL, Mobile Programing
 
 ### Plan
 Hadoop, R
+
+
 
 ## [INTEREST]()
 
