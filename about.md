@@ -34,9 +34,9 @@ This is my personal blog. It currently has {{ site.posts | size }} posts in {{ s
 
 ## [INTRODUCTION]()
 
-Name: Kim Gi Hyun
-Birth: January. 19, 1994.
-university: Kangwon National University(Samcheok), Department of Computer Science
+<sub>Name: Kim Gi Hyun </sub>
+<sub>Birth: January. 19, 1994. </sub>
+<sub>university: Kangwon National University(Samcheok), Department of Computer Science </sub>
 
 ## [PROJECTS]()
 ### 수제공예품 재료 정리 어플리케이션  - *Team project*
