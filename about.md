@@ -3,12 +3,12 @@ layout: page
 permalink: /about/index.html
 title: GiHyun Kim
 tags: [Gihyun, Kim, gihyun1019]
-imagefeature: Gihyun.png
+imagefeature: Gihyun.jpg
 chart: true
 ---
 
 <figure>
-	<img src="{{ site.url }}/images/Gihyun.png">
+	<img src="https://gihyun1019.github.io/images/Gihyun.jpg">
 	<figcaption>Kim Gi Hyun</figcaption>
 </figure>
 
