@@ -8,7 +8,7 @@ chart: true
 ---
 
 <figure>
-	<img src="{{ site.url }}/images/Gihyun.jpg">
+	<img src="{{ site.url }}/images/Gihyun.png">
 	<figcaption>Kim Gi Hyun</figcaption>
 </figure>
 
