@@ -13,7 +13,7 @@ dropcap:			true
 remote_theme : hmfaysal/Notepad
 
 url                      : "https://newhiwoong.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  :  # the subpath of your site, e.g. "/blog"
 
 # Owner/author information
 owner:
