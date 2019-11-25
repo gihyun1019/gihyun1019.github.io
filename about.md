@@ -34,7 +34,7 @@ This is my personal blog. It currently has {{ site.posts | size }} posts in {{ s
 
 ## [INTRODUCTION]()
 - Birth: January, 01, 1994
-- Number: 010-5566-7527
+- Number: 010-5***-7***
 - University: Kangwon National University(Samcheok), Department of Computer Science
 
 
